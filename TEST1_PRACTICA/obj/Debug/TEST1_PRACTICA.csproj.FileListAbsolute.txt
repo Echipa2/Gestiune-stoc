@@ -10,3 +10,31 @@ C:\Users\Catrinel\source\repos\TEST1_PRACTICA\TEST1_PRACTICA\obj\Debug\TEST1_PRA
 C:\Users\Catrinel\source\repos\TEST1_PRACTICA\TEST1_PRACTICA\obj\Debug\TEST1_PRACTICA.exe
 C:\Users\Catrinel\source\repos\TEST1_PRACTICA\TEST1_PRACTICA\obj\Debug\TEST1_PRACTICA.pdb
 C:\Users\Catrinel\source\repos\TEST1_PRACTICA\TEST1_PRACTICA\obj\Debug\TEST1_PRACTICA.Form3.resources
+C:\Users\chela\Desktop\TEST1_PRACTICA\TEST1_PRACTICA\TEST1_PRACTICA\bin\Debug\TEST1_PRACTICA.exe.config
+C:\Users\chela\Desktop\TEST1_PRACTICA\TEST1_PRACTICA\TEST1_PRACTICA\bin\Debug\TEST1_PRACTICA.exe
+C:\Users\chela\Desktop\TEST1_PRACTICA\TEST1_PRACTICA\TEST1_PRACTICA\bin\Debug\TEST1_PRACTICA.pdb
+C:\Users\chela\Desktop\TEST1_PRACTICA\TEST1_PRACTICA\TEST1_PRACTICA\obj\Debug\TEST1_PRACTICA.csprojAssemblyReference.cache
+C:\Users\chela\Desktop\TEST1_PRACTICA\TEST1_PRACTICA\TEST1_PRACTICA\obj\Debug\TEST1_PRACTICA.Form1.resources
+C:\Users\chela\Desktop\TEST1_PRACTICA\TEST1_PRACTICA\TEST1_PRACTICA\obj\Debug\TEST1_PRACTICA.Form2.resources
+C:\Users\chela\Desktop\TEST1_PRACTICA\TEST1_PRACTICA\TEST1_PRACTICA\obj\Debug\TEST1_PRACTICA.Form3.resources
+C:\Users\chela\Desktop\TEST1_PRACTICA\TEST1_PRACTICA\TEST1_PRACTICA\obj\Debug\TEST1_PRACTICA.Properties.Resources.resources
+C:\Users\chela\Desktop\TEST1_PRACTICA\TEST1_PRACTICA\TEST1_PRACTICA\obj\Debug\TEST1_PRACTICA.csproj.GenerateResource.cache
+C:\Users\chela\Desktop\TEST1_PRACTICA\TEST1_PRACTICA\TEST1_PRACTICA\obj\Debug\TEST1_PRACTICA.csproj.CoreCompileInputs.cache
+C:\Users\chela\Desktop\TEST1_PRACTICA\TEST1_PRACTICA\TEST1_PRACTICA\obj\Debug\TEST1_PRACTICA.exe
+C:\Users\chela\Desktop\TEST1_PRACTICA\TEST1_PRACTICA\TEST1_PRACTICA\obj\Debug\TEST1_PRACTICA.pdb
+C:\Users\chela\Desktop\TEST1_PRACTICA\TEST1_PRACTICA\TEST1_PRACTICA\obj\Debug\TEST1_PRACTICA.Form4.resources
+C:\Users\chela\Desktop\TEST1_PRACTICA\TEST1_PRACTICA\TEST1_PRACTICA\obj\Debug\TEST1_PRACTICA.Form5.resources
+C:\Users\chela\Desktop\Proiect Practica\TEST1_PRACTICA\TEST1_PRACTICA\bin\Debug\TEST1_PRACTICA.exe.config
+C:\Users\chela\Desktop\Proiect Practica\TEST1_PRACTICA\TEST1_PRACTICA\bin\Debug\TEST1_PRACTICA.exe
+C:\Users\chela\Desktop\Proiect Practica\TEST1_PRACTICA\TEST1_PRACTICA\bin\Debug\TEST1_PRACTICA.pdb
+C:\Users\chela\Desktop\Proiect Practica\TEST1_PRACTICA\TEST1_PRACTICA\obj\Debug\TEST1_PRACTICA.csprojAssemblyReference.cache
+C:\Users\chela\Desktop\Proiect Practica\TEST1_PRACTICA\TEST1_PRACTICA\obj\Debug\TEST1_PRACTICA.Form1.resources
+C:\Users\chela\Desktop\Proiect Practica\TEST1_PRACTICA\TEST1_PRACTICA\obj\Debug\TEST1_PRACTICA.Form2.resources
+C:\Users\chela\Desktop\Proiect Practica\TEST1_PRACTICA\TEST1_PRACTICA\obj\Debug\TEST1_PRACTICA.Form3.resources
+C:\Users\chela\Desktop\Proiect Practica\TEST1_PRACTICA\TEST1_PRACTICA\obj\Debug\TEST1_PRACTICA.Form4.resources
+C:\Users\chela\Desktop\Proiect Practica\TEST1_PRACTICA\TEST1_PRACTICA\obj\Debug\TEST1_PRACTICA.Form5.resources
+C:\Users\chela\Desktop\Proiect Practica\TEST1_PRACTICA\TEST1_PRACTICA\obj\Debug\TEST1_PRACTICA.Properties.Resources.resources
+C:\Users\chela\Desktop\Proiect Practica\TEST1_PRACTICA\TEST1_PRACTICA\obj\Debug\TEST1_PRACTICA.csproj.GenerateResource.cache
+C:\Users\chela\Desktop\Proiect Practica\TEST1_PRACTICA\TEST1_PRACTICA\obj\Debug\TEST1_PRACTICA.csproj.CoreCompileInputs.cache
+C:\Users\chela\Desktop\Proiect Practica\TEST1_PRACTICA\TEST1_PRACTICA\obj\Debug\TEST1_PRACTICA.exe
+C:\Users\chela\Desktop\Proiect Practica\TEST1_PRACTICA\TEST1_PRACTICA\obj\Debug\TEST1_PRACTICA.pdb

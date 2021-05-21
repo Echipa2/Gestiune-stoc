@@ -41,7 +41,12 @@ namespace TEST1_PRACTICA
                     itm.SubItems.Add(reader["adaos"].ToString());
                     itm.SubItems.Add(reader["denumire"].ToString());
                     itm.SubItems.Add(reader["cantitate"].ToString());
-                    //  itm.SubItems.Add(reader["total"].ToString());
+                    int pret=Convert.ToInt32(reader["pret"]);
+                    int adaos = Convert.ToInt32(reader["adaos"]);
+
+                    double total = pret + adaos / 100.0 *pret;
+
+                    itm.SubItems.Add(total.ToString());
                     listView1.Items.Add(itm);
                 }
                 reader.Close();
@@ -130,6 +135,13 @@ namespace TEST1_PRACTICA
                 conexiune.Close();
             }
             button1_Click(sender, e);
+        }
+
+        private void btnVanzare_Click(object sender, EventArgs e)
+        {
+            Form5 frm = new Form5();
+            frm.Show(this);
+            
         }
     }
 

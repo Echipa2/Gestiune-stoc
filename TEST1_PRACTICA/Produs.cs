@@ -14,7 +14,7 @@ namespace TEST1_PRACTICA
         private decimal adaos;
         private int cod_de_bare;
         private int cantitate;
-        private float total;
+        private double total;
 
         public string Denumire { get => denumire; set => denumire = value; }
         public float Pret { get => pret; set => pret = value; }
@@ -22,9 +22,9 @@ namespace TEST1_PRACTICA
         public int Cod { get => cod_de_bare; set => cod_de_bare = value; }
         public int Cantitate { get => cantitate; set => cantitate = value; }
 
-        public float Total{ get => total; set => total = value; }
+        public double Total{ get => total; set => total = value; }
 
-        public Produs(string d, float p, decimal a, int c, int cant, float t)
+        public Produs(string d, float p, decimal a, int c, int cant, double t)
         {
             denumire = d;
 
