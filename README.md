@@ -1,2 +1,2 @@
 # Gestiune-stoc
-Windows Forms Application
+O aplicație în Windows Forms care gestionează stocul unui magazin alimentar
